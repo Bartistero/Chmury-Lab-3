@@ -4,7 +4,7 @@
 >link dockerHub: https://hub.docker.com/repository/docker/bartister99/lab.3
 
 ## How to run the projetct?
-Please download the secretKey from moodle and use it to the following command: 
+Please download the secretKey from the moodle and use it to the following command: 
 >docker build --ssh default=secret.pem  -t first . 
 
 This command creates the docker image.To run the container please use the command bellow:
