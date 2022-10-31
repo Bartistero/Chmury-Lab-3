@@ -1,4 +1,4 @@
-# Conference project  
+#Lab. 3  
 >link Github: https://github.com/Bartistero/Chmury-Lab-3
 
 >link dockerHub: https://hub.docker.com/repository/docker/bartister99/lab.3
